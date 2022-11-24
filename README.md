@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Diego-Felix, i love studying and working with programming and everything related to information technology
-- 👀 I’m interested in information Technology
+- 👋 Hi, My name is Diego Felix de Souza, I'm 19 years old, I'm from Jundiaí-SP. I graduated from High School at La Fontaine School, Today I'm studying Computer Science. I have advanced English and Spanish, I'm always looking to improve my work and my knowledge, I really like and I'm easy to work in groups. My focus is being able to become a programmer, focused on front-end. I have knowledge in Html, CSS, JavaScript, React, I'm studying PHP, currently doing an internship at Universidade Padre Anchieta
+
