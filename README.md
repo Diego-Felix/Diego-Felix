@@ -1,2 +1,4 @@
-- 👋 Hi, My name is Diego Felix de Souza, I'm 20 years old, I'm from Jundiaí-SP. I graduated from High School at La Fontaine School, Today I'm studying Computer Science. I have advanced English and Spanish, I'm always looking to improve my work and my knowledge, I really like and I'm easy to work in groups. My focus is being able to become a programmer, focused on front-end. I have knowledge in Html, CSS, JavaScript, React, I'm studying PHP, currently doing an internship at Universidade Padre Anchieta
+- 👋 Hello, my name is Diego Felix de Souza and I am 20 years old. I'm from Jundiaí, São Paulo. I completed high school at La Fontaine School and am currently studying Computer Science. I have an advanced level in English and Spanish and I am always looking to improve my work and knowledge. I have a great affinity for working in teams and my goal is to become a programmer with a focus on front-end.
+
+I have knowledge of HTML, CSS, JavaScript, PHP, SQL and Figma. Currently, I am studying PHP and REACT.
 
